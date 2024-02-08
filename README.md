@@ -5,4 +5,4 @@
 
 ![Basic Setup](basic-setup.png)
 
-![Craft buffer items](craft-buffer-items.png)
+![Craft buffer](craft-buffer.png)
